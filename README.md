@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Mistrain-y-y.
+- 👀 I’m interested in html, css, javascript and react.
